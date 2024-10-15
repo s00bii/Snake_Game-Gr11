@@ -1,0 +1,22 @@
+﻿<joueurs> //Ouvrir le group des joueurs collectif
+  <joueur> //Ouvrir un group pour un joueur specific
+    <nom>Benjamin</nom> //Le nom de se joueur
+    <score>8</score> //Le score de se joueur
+  </joueur> //Fermer le group du joueur specific
+  <joueur>//Ouvrir un nouveau group pour un nouveau joueur specific
+    <nom>Subere</nom> //Memes commentaires...
+    <score>89454</score>
+  </joueur> 
+  <joueur>
+    <nom>Marie Poupart</nom>
+    <score>14</score>
+  </joueur>
+  <joueur>
+    <nom>Cedric</nom>
+    <score>21</score>
+  </joueur>
+  <joueur>
+    <nom>Fubushi</nom>
+    <score>3</score>
+  </joueur>
+</joueurs>
